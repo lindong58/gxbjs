@@ -70,7 +70,7 @@
     "deep-equal": "^1.0.1",
     "ecurve": "^1.0.2",
     "event-emitter": "^0.3.4",
-    "gxbjs-ws": "^1.1.18",
+    "gxbjs-ws": "git+https://github.com/lindong58/gxbjs-ws.git",
     "immutable": "^3.7.6",
     "secp256k1": "^3.3.0",
     "secure-random": "^1.1.1"
